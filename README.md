@@ -32,13 +32,6 @@ my-weather-app/
 └── README.md
 ```
 
-## ⚙️ Installation
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/harsh123sinha/my-weather-app.git
-```
 
 ### Navigate to Project Directory
 
